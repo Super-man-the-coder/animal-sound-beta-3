@@ -1,0 +1,41 @@
+body
+{
+    background-color: white;
+    text-align: center;
+    font-family:'Segoe UI';
+}
+
+.header_div
+{
+    background-color: white;
+    color: black;
+}
+
+.header_div p{
+    font-family: 'Segoe UI';
+    color:black;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Segoe UI';
+    color: black ;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    background-color: white;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center ;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
